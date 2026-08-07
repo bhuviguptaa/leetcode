@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/bhuviguptaa/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bhuviguptaa/leetcode/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/bhuviguptaa/leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/bhuviguptaa/leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
