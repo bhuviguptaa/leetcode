@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhuviguptaa/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhuviguptaa/leetcode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
