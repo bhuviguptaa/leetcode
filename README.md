@@ -11,17 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bhuviguptaa/leetcode/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/bhuviguptaa/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
