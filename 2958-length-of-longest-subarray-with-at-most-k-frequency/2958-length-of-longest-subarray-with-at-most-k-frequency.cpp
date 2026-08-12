@@ -15,7 +15,5 @@ public:
         right++;
      } 
      return ans;
-     
-
     }
 };
