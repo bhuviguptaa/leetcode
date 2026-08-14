@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhuviguptaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhuviguptaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/bhuviguptaa/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bhuviguptaa/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhuviguptaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhuviguptaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhuviguptaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
