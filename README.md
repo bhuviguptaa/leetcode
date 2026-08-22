@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhuviguptaa/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/bhuviguptaa/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bhuviguptaa/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bhuviguptaa/leetcode/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/bhuviguptaa/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhuviguptaa/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
