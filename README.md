@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/bhuviguptaa/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/bhuviguptaa/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
+| [0551-student-attendance-record-i](https://github.com/bhuviguptaa/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhuviguptaa/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhuviguptaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
