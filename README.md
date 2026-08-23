@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/bhuviguptaa/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/bhuviguptaa/leetcode/tree/master/0231-power-of-two) |
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhuviguptaa/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/bhuviguptaa/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhuviguptaa/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bhuviguptaa/leetcode/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhuviguptaa/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/bhuviguptaa/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhuviguptaa/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
