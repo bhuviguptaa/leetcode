@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bhuviguptaa/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhuviguptaa/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/bhuviguptaa/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhuviguptaa/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
