@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bhuviguptaa/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bhuviguptaa/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bhuviguptaa/leetcode/tree/master/0326-power-of-three) |
 | [1512-number-of-good-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bhuviguptaa/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/bhuviguptaa/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhuviguptaa/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/bhuviguptaa/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/bhuviguptaa/leetcode/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
