@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/bhuviguptaa/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bhuviguptaa/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/bhuviguptaa/leetcode/tree/master/0198-house-robber) |
 | [0334-increasing-triplet-subsequence](https://github.com/bhuviguptaa/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0682-baseball-game](https://github.com/bhuviguptaa/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bhuviguptaa/leetcode/tree/master/0704-binary-search) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/bhuviguptaa/leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/bhuviguptaa/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
