@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bhuviguptaa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhuviguptaa/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bhuviguptaa/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/bhuviguptaa/leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhuviguptaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bhuviguptaa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhuviguptaa/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/bhuviguptaa/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/bhuviguptaa/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bhuviguptaa/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/bhuviguptaa/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/bhuviguptaa/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhuviguptaa/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bhuviguptaa/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/bhuviguptaa/leetcode/tree/master/0509-fibonacci-number) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhuviguptaa/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bhuviguptaa/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/bhuviguptaa/leetcode/tree/master/0202-happy-number) |
 ## Queue
 |  |
 | ------- |
