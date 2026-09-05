@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhuviguptaa/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/bhuviguptaa/leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/bhuviguptaa/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/bhuviguptaa/leetcode/tree/master/0682-baseball-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/bhuviguptaa/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
 | ------- |
