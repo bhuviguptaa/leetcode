@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/bhuviguptaa/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/bhuviguptaa/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
