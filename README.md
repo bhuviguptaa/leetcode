@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/bhuviguptaa/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhuviguptaa/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/bhuviguptaa/leetcode/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuviguptaa/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhuviguptaa/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/bhuviguptaa/leetcode/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/bhuviguptaa/leetcode/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/bhuviguptaa/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
