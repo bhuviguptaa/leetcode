@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bhuviguptaa/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhuviguptaa/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhuviguptaa/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3870-count-commas-in-range](https://github.com/bhuviguptaa/leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bhuviguptaa/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
