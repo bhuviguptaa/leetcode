@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhuviguptaa/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/bhuviguptaa/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhuviguptaa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/bhuviguptaa/leetcode/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhuviguptaa/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhuviguptaa/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bhuviguptaa/leetcode/tree/master/0414-third-maximum-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhuviguptaa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhuviguptaa/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/bhuviguptaa/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bhuviguptaa/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhuviguptaa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/bhuviguptaa/leetcode/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhuviguptaa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
