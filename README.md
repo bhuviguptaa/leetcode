@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/bhuviguptaa/leetcode/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/bhuviguptaa/leetcode/tree/master/0577-employee-bonus) |
 | [0627-swap-sex-of-employees](https://github.com/bhuviguptaa/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
