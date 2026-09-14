@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/bhuviguptaa/leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhuviguptaa/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/bhuviguptaa/leetcode/tree/master/3110-score-of-a-string) |
+| [4006-count-valid-prefixes](https://github.com/bhuviguptaa/leetcode/tree/master/4006-count-valid-prefixes) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhuviguptaa/leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
+| [4006-count-valid-prefixes](https://github.com/bhuviguptaa/leetcode/tree/master/4006-count-valid-prefixes) |
 ## Game Theory
 |  |
 | ------- |
