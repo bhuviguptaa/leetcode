@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/bhuviguptaa/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/bhuviguptaa/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/bhuviguptaa/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bhuviguptaa/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bhuviguptaa/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bhuviguptaa/leetcode/tree/master/0202-happy-number) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/bhuviguptaa/leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/bhuviguptaa/leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhuviguptaa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/bhuviguptaa/leetcode/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/bhuviguptaa/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/bhuviguptaa/leetcode/tree/master/0627-swap-sex-of-employees) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bhuviguptaa/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
