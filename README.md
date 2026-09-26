@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/bhuviguptaa/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/bhuviguptaa/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bhuviguptaa/leetcode/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/bhuviguptaa/leetcode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/bhuviguptaa/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/bhuviguptaa/leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhuviguptaa/leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/bhuviguptaa/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bhuviguptaa/leetcode/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/bhuviguptaa/leetcode/tree/master/1051-height-checker) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhuviguptaa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhuviguptaa/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bhuviguptaa/leetcode/tree/master/3731-find-missing-elements) |
@@ -350,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bhuviguptaa/leetcode/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/bhuviguptaa/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/bhuviguptaa/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
