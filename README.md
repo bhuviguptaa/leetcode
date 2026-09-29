@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bhuviguptaa/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bhuviguptaa/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/bhuviguptaa/leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/bhuviguptaa/leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/bhuviguptaa/leetcode/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhuviguptaa/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/bhuviguptaa/leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/bhuviguptaa/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/bhuviguptaa/leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/bhuviguptaa/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
