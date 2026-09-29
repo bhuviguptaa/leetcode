@@ -1,12 +1,20 @@
 class Solution {
 public:
-    bool isPerfectSquare(int num) {
-        int i = 1;
-        while(num>0){
-            num-=i;
-            i+=2;
-            if(num==0) return true;
+    bool isPerfectSquare(int n) {
+        int low = 1;
+        int high = n;
+        while(low <= high){
+            long mid = low +(high-low)/2;
+            if((mid*mid) == n){
+                return true;
+            }
+            else if((mid*mid) <= n){
+                low = mid+1;
+            } 
+            else{
+                high = mid-1;
+            }
         }
-        return false;
+        return false;  
     }
 };
