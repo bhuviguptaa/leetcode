@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/bhuviguptaa/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/bhuviguptaa/leetcode/tree/master/2029-stone-game-ix) |
 | [2469-convert-the-temperature](https://github.com/bhuviguptaa/leetcode/tree/master/2469-convert-the-temperature) |
+| [2769-find-the-maximum-achievable-number](https://github.com/bhuviguptaa/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bhuviguptaa/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bhuviguptaa/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/bhuviguptaa/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
